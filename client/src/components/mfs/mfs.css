@@ -1,0 +1,46 @@
+/* .App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .dropdown {
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .dropdown-title {
+    width: 100%;
+    padding: 10px;
+    background-color: #f7f7f7;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+    outline: none;
+    font-size: 16px;
+  }
+  
+  .dropdown-title:hover {
+    background-color: #e7e7e7;
+  }
+  
+  .dropdown-content {
+    padding: 10px;
+    background-color: #fff;
+    border-top: 1px solid #ddd;
+  } */
+  
+  .table-div{
+    margin-left: 100px;
+    margin-right: 100px;
+  }
